@@ -14,7 +14,7 @@ git checkout xxx
 git add xxx
 
 本地Commit：
-git commit
+git commit -m "comments comments"
 
 提交到远程仓库(dev分支为例), origin固定不变，注意不能直接提交到master分支:
 git push origin dev
